@@ -1,6 +1,12 @@
-RUN commond in terminal
+Open your terminal and run:
+1️⃣ Clone the Repository
+1. git clone https://github.com/MSankalpaurya/bowling_Score.git
+cd bowling-score-cpp
 
+2️⃣ Make the Shell Script Executable
 chmod +x runscript.sh
-and run 
 
+3️⃣ Run the Script to Build and Launch the App
 ./runscript.sh
+
+
