@@ -1,0 +1,6 @@
+RUN commond in terminal
+
+chmod +x runscript.sh
+and run 
+
+./runscript.sh
