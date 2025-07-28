@@ -8,4 +8,4 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Add the executable
-add_executable(bowling_score bowling_score.cpp)
+add_executable(BowlingScore bowling_score.cpp)

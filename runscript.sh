@@ -14,4 +14,4 @@ cmake ..
 cmake --build .
 
 # Run the executable
-./bowling_score
+./BowlingScore
